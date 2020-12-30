@@ -13,9 +13,9 @@
     --fw-reg: 300;
     --fw-bold: 900;
     
-    --clr-light:#DCE1E3;
-    --clr-dark: #5C5F58;
-    --clr-accent: #004E7C;
+    --clr-light: gray;
+    --clr-dark: #DCE1E3;
+    --clr-accent: #5C5F58;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -298,7 +298,7 @@ header {
 }
 
 .section__title--services {
-    color: var(--clr-accent);
+    color: var(--clr-dark);
     position: relative;
 }
 
@@ -319,6 +319,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-bottom: 20px;
 }
 
 .skill{
