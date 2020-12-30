@@ -293,7 +293,8 @@ header {
     background-color: var(--clr-dark);
     background-image: url(https://i.imgur.com/5f98HGM.jpg);
     background-size: cover;
-    color: var(--clr-light);
+    /* color: var(--clr-light); */
+    color: black;
     text-align: center;
 }
 
