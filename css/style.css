@@ -291,7 +291,7 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(https://i.imgur.com/5f98HGM.jpg);
+    background-image: url(https://i.imgur.com/ARHnu8p.jpg);
     background-size: cover;
     /* color: var(--clr-light); */
     color: black;
@@ -299,7 +299,7 @@ header {
 }
 
 .section__title--services {
-    color: var(--clr-dark);
+    /* color: var(--clr-dark); */
     position: relative;
 }
 
@@ -316,7 +316,7 @@ header {
 .skills{
     font-family: var(--ff-primary);
     font-size: var(--fs-body);
-    font-weight: bolder;
+    /* font-weight: bold; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -325,9 +325,9 @@ header {
 
 .skill{
 
-    font-size: var(--fs-body);
+    /* font-size: var(--fs-body); */
     margin-bottom: 4em;
-    text-shadow: 1px -1px 0 white ;
+    /* text-shadow: -1px -1px 0 gray ; */
 
 }
 .skill {
