@@ -327,6 +327,8 @@ header {
 
     font-size: var(--fs-body);
     margin-bottom: 4em;
+    text-shadow: 1px -1px 0 white ;
+
 }
 .skill {
     max-width: 500px;
